@@ -2,13 +2,10 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.ServiceModel;
 using System.ServiceModel.Description;
-using System.Text;
 using System.Threading.Tasks;
 using GeometricLayout.Models;
-using System.Drawing;
 
 namespace GeometricLayoutClient
 {
