@@ -54,9 +54,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GeometricLayoutService\GeometricLayoutService.csproj">
-      <Project>{DB92407B-9B10-4936-B2EF-C167FACF9E9B}</Project>
-      <Name>GeometricLayoutService</Name>
+    <ProjectReference Include="..\GeometricLayoutWebApp\GeometricLayoutWebApp.csproj">
+      <Project>{db92407b-9b10-4936-b2ef-c167facf9e9b}</Project>
+      <Name>GeometricLayoutWebApp</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,5 +1,5 @@
 ﻿using GeometricLayoutClient;
-using GeometricLayoutService.Models;
+using GeometricLayout.Models;
 using GeometricLayoutTest.Properties;
 using System;
 using System.Collections.Generic;

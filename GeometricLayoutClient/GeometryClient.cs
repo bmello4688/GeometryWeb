@@ -7,7 +7,7 @@ using System.ServiceModel;
 using System.ServiceModel.Description;
 using System.Text;
 using System.Threading.Tasks;
-using GeometricLayoutService.Models;
+using GeometricLayout.Models;
 using System.Drawing;
 
 namespace GeometricLayoutClient

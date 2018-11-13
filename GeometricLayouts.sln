@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayoutClient", "Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayoutTest", "GeometricLayoutTest\GeometricLayoutTest.csproj", "{50E1E4BA-3E96-40E9-8967-9CA681141D95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayoutService", "GeometricLayoutService\GeometricLayoutService.csproj", "{DB92407B-9B10-4936-B2EF-C167FACF9E9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricLayoutWebApp", "GeometricLayoutWebApp\GeometricLayoutWebApp.csproj", "{DB92407B-9B10-4936-B2EF-C167FACF9E9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
