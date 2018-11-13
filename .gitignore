@@ -3,8 +3,6 @@
 ################################################################################
 
 /.vs
-/GeometricLayoutClient/obj
-/GeometricLayoutService/bin
-/GeometricLayoutService/obj
-/GeometricLayoutTest/obj
+/*/obj
+/*/bin
 /packages
